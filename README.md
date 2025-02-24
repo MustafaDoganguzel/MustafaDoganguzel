@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafadoganguzel&show_icons=true&locale=en&layout=compact" alt="mustafadoganguzel" /></p>
 
 
+![snake gif](https://github.com/MustafaDoganguzel/MustafaDoganguzel/blob/output/github-contribution-grid-snake.gif)
+
