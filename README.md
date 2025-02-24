@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native, Java and Spring boot**
 
-- 📫 How to reach me **m.doganguzell@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,5 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafadoganguzel&show_icons=true&locale=en&layout=compact" alt="mustafadoganguzel" /></p>
 
 
-![snake gif](https://github.com/MustafaDoganguzel/MustafaDoganguzel/blob/output/github-contribution-grid-snake.gif)
+
 
