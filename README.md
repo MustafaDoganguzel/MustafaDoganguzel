@@ -12,9 +12,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafadoganguzel&show_icons=true&locale=en&layout=compact" alt="mustafadoganguzel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafadoganguzel&show_icons=true&locale=en" alt="mustafadoganguzel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafadoganguzel&" alt="mustafadoganguzel" /></p>
 
 
 ###
